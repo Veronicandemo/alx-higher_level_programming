@@ -9,5 +9,3 @@ elif last_digit == 0:
     print(f"{message} and is 0")
 else:
     print(f"{message} and is less than 6 and not 0")
-
-
