@@ -1,4 +1,4 @@
 #!/usr/bin/node
 
 const [, , arg] = process.argv;
-arg ? console.log(arg) : console.log("No argument");
+arg ? console.log(arg) : console.log('No argument');
